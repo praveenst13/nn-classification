@@ -44,12 +44,16 @@ import pandas as pd
 Include screenshot of the dataset
 
 ## OUTPUT
+### Heat map
+ ![image](https://github.com/praveenst13/nn-classification/assets/118787793/f146bd98-517c-4263-854d-781e33f1df82)
+
 ### Training Loss, Validation Loss Vs Iteration Plot
-Include your plot here
+![image](https://github.com/praveenst13/nn-classification/assets/118787793/f262a8fe-309e-4187-b8ed-9235c1d8b3d3)
+
 
 ### Classification Report
 
-Include Classification Report here
+
 
 ### Confusion Matrix
 
