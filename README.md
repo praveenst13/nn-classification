@@ -156,6 +156,7 @@ print(confusion_matrix(y_test_truevalue,x_test_predictions))
 print(classification_report(y_test_truevalue,x_test_predictions))
 x_single_prediction = np.argmax(ai_brain.predict(X_test_scaled[1:2,:]), axis=1)
 print(x_single_prediction)
+print(le.inverse_transform(x_single_prediction))
 ```
 
 ## Dataset Information
